@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\bin\Debug\EX02.exe.config
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\bin\Debug\EX02.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\bin\Debug\EX02.pdb
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\obj\Debug\EX02.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\obj\Debug\EX02.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\obj\Debug\EX02.exe
+C:\Users\Master\source\repos\anajulialeite\Cesar\C# Completo\EX02\EX02\obj\Debug\EX02.pdb
