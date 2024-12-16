@@ -4,7 +4,7 @@
 
  Esse repositório é dedicado a tudo que for POO utilizando C#. Começando desde ao básico, como exemplos bem simples e didáticos, e daí vai avançando de nível, até aprofundar para interfaces, polimorfismo, princípios de SOLID, padrões de projeto, generics, expressões lâmbda, delegates, LINQ e muito mais.
 
- O obetivo desse curso é estudar a teoria e depois colocar tudo em prática, contendo exercícios, projetos e permitir compreender como os tópicos se unem para a construção de projetos reais.
+ O objetivo desse curso é estudar a teoria e depois colocar tudo em prática, contendo exercícios, projetos e permitir compreender como os tópicos se unem para a construção de projetos reais.
 
  Aqui eu também vou poder reforçar tudo que eu estudei na faculdade com o professor César.
 
