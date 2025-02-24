@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84339BC0-F6CE-4E55-9859-433C172F9630}|curso\\curso.csproj|c:\\users\\master\\documents\\estudos\\csharp_completo\\curso\\curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84339BC0-F6CE-4E55-9859-433C172F9630}|curso\\curso.csproj|solutionrelative:curso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\curso\\curso\\Program.cs",
+              "RelativeDocumentMoniker": "curso\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\curso\\curso\\Program.cs*",
+              "RelativeToolTip": "curso\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:43:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

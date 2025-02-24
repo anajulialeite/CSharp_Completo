@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\Variaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8BB3F8-1C2E-4503-BE92-6A82CA885FD5}|Variaveis\\Variaveis.csproj|c:\\users\\master\\documents\\estudos\\csharp_completo\\variaveis\\variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8BB3F8-1C2E-4503-BE92-6A82CA885FD5}|Variaveis\\Variaveis.csproj|solutionrelative:variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\Variaveis\\Variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Variaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\Variaveis\\Variaveis\\Program.cs*",
+              "RelativeToolTip": "Variaveis\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:22:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

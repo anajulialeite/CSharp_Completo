@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\bin\Debug\usuario.exe.config
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\bin\Debug\usuario.exe
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\bin\Debug\usuario.pdb
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\obj\Debug\usuario.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\obj\Debug\usuario.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\obj\Debug\usuario.exe
+C:\Users\Master\Documents\Estudos\CSharp_Completo\usuario\usuario\obj\Debug\usuario.pdb

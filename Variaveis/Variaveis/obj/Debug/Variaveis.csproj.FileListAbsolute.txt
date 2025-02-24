@@ -1,0 +1,7 @@
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\Master\Documents\Estudos\CSharp_Completo\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
