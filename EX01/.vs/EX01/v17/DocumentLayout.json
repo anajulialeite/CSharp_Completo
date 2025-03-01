@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Master\\source\\repos\\EX01\\",
+  "WorkspaceRootPath": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\EX01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B71C871E-246D-487B-86EB-F3DD728CE957}|EX01\\EX01.csproj|c:\\users\\master\\source\\repos\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B71C871E-246D-487B-86EB-F3DD728CE957}|EX01\\EX01.csproj|c:\\users\\master\\documents\\estudos\\csharp_completo\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B71C871E-246D-487B-86EB-F3DD728CE957}|EX01\\EX01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Master\\source\\repos\\EX01\\EX01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\EX01\\EX01\\Program.cs",
               "RelativeDocumentMoniker": "EX01\\Program.cs",
-              "ToolTip": "C:\\Users\\Master\\source\\repos\\EX01\\EX01\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Documents\\Estudos\\CSharp_Completo\\EX01\\EX01\\Program.cs",
               "RelativeToolTip": "EX01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
