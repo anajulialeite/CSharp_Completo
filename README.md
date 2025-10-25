@@ -8,6 +8,6 @@ O objetivo desse curso é estudar a teoria e depois colocar tudo em prática, co
 
 Aqui eu também vou poder reforçar tudo que eu estudei na faculdade com o professor César.
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
