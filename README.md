@@ -1,6 +1,6 @@
 # CSharp Completo
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" align="left" width="160" height="160" /></div>
 
  Esse repositório é dedicado a tudo que for POO utilizando C#. Começando desde ao básico, como exemplos bem simples e didáticos, e daí vai avançando de nível, até aprofundar para interfaces, polimorfismo, princípios de SOLID, padrões de projeto, generics, expressões lâmbda, delegates, LINQ e muito mais.
 
